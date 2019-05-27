@@ -64,6 +64,7 @@
         android:layout_width="750dp"
         android:layout_height="90dp"
         android:text="Enviar"
+        android:textSize="40dp"
         android:layout_gravity="center"
         android:layout_margin="40dp"
         android:textColor="@color/branco"
